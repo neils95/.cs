@@ -1,0 +1,9 @@
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb

@@ -1,0 +1,17 @@
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\New folder\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\neils\Documents\Fall 2016\EC447\Homework Assignments\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
